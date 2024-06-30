@@ -2,7 +2,7 @@
 
 #### Project Description
 
-The Inventory Management System (IMS) is a Java-based application designed to efficiently manage product information within a business. This system utilizes arrays to store and manipulate data related to products, allowing users to perform various operations that ensure accurate stock levels and streamlined inventory management.
+The Inventory Management System is a Java-based application designed to efficiently manage product information within a business. This system utilizes arrays to store and manipulate data related to products, allowing users to perform various operations that ensure accurate stock levels and streamlined inventory management.
 
 #### Data Structure
 
